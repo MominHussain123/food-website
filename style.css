@@ -390,6 +390,7 @@ body {
 .Dishes .heading_box .text p {
     color: var(--red);
     margin: 2rem 0;
+    text-transform: uppercase;
 }
 .Dishes .heading_box .text h1 {
     font-size: 3rem;
@@ -556,6 +557,7 @@ body {
 }
 .Testimonial .container_box .content .para-1 {
     color: var(--red);
+    text-transform: uppercase;
 }
 .Testimonial .container_box .content h1 {
     font-size: 2.5rem;
@@ -616,6 +618,7 @@ body {
 }
 .Service .container_box .box1 .para-1 {
     color: var(--red);
+    text-transform: uppercase;
 }
 .Service .container_box .box1 button {
     margin: 2.5rem 0;
@@ -655,7 +658,8 @@ body {
 .Service .container_box .box2 .boxitem h2 {
     color: var(--lime);
     margin: 1rem 0;
-    font-size: 1.3rem;
+    font-size: 1rem;
+    text-transform: uppercase;
 }
 .Service .container_box .box2 .boxitem p {
     color: green;
